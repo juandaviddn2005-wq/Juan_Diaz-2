@@ -2,8 +2,8 @@
 Trabajo Numero 3 BIG DATA JUAN DIAZ  2
 # Tarea 3 – Procesamiento de datos con Apache Spark y Kafka
 
-**Curso:** Big Data (código 202016911) · Universidad Nacional Abierta y a Distancia (UNAD) · Ingeniería de Sistemas
-**Estudiante:** Esteban Valencia
+**Curso:** Big Data (código 202016911A_2204) · Universidad Nacional Abierta y a Distancia (UNAD) · Ingeniería Industrial
+**Estudiante:** Juan David Diaz Narvaez
 
 Este repositorio contiene el procesamiento **batch** con PySpark sobre el dataset de comercio electrónico de Olist y el ejercicio de **tiempo real** con Apache Kafka y Spark Structured Streaming (Anexo 3 de la guía).
 
